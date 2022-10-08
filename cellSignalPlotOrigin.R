@@ -1,3 +1,7 @@
+############### Code to infer cell of origin from bulk RNA and appropriate single cell reference.
+############### Uses output from https://www.nature.com/articles/s41467-021-23949-5
+
+
 library(ggsci)
 library(reshape2)
 
